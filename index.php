@@ -2,7 +2,7 @@
 //https://cf-hls-opus-media.sndcdn.com/playlist/6a4yq7hqSkbp.64.opus/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NmLWhscy1vcHVzLW1lZGlhLnNuZGNkbi5jb20vcGxheWxpc3QvNmE0eXE3aHFTa2JwLjY0Lm9wdXMvcGxheWxpc3QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU0NDQ2NDY0OH19fV19&Signature=dJw27Sh63zsceJHyrS7XFgrE9fmIfKUpJ6pyrE7aFQGofcOcR2ISoEByMCp5hedwqqLnYcFR6VRE20ZrVGeeXU-VsoZKWpUFQawJcIyWgSbC9BA8YOpXZbsBEDrgIy44Lx3YUzBbDMTJf-I0mqgVxEX0aV7XR46bXeaODVTL1gCzUG-nkCr6B8ZRcV0i~asxWM5pgpRioTkeg5FsJCQNOQIpK418CRUWvkH0~Etp1SYiMHfbnz7We1jA76ze4fdxy40bt9ve6n-llRW2rXbry-DmmI-bhECAFKMTmyOn3KjNyGF0QQXGzRgoKApSzSZqfna~KQoJxDkI-Th4DpB0mQ__&Key-Pair-Id=APKAJAGZ7VMH2PFPW6UQ
 //
 include('header.php');
-echo "James is gaaaaaaaaaaaaaaaaaaaaay for Trump";
+echo "Chris is cool!";
 ?>
 
 	<style> 
